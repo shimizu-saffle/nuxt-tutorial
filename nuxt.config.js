@@ -35,6 +35,7 @@ export default {
     "@chakra-ui/nuxt",
     // https://go.nuxtjs.dev/emotion
     "@nuxtjs/emotion",
+    "@nuxt/content",
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
